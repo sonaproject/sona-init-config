@@ -1,0 +1,14 @@
+{
+  "org.onosproject.openstacknetworking.impl.OpenstackRoutingArpHandler": {
+    "arpMode": "broadcast"
+  },
+  "org.onosproject.openstacknetworking.impl.OpenstackSwitchingArpHandler": {
+    "arpMode": "broadcast"
+  },
+  "org.onosproject.net.flow.impl.FlowRuleManager": {
+    "allowExtraneousRules": true
+  },
+  "org.onosproject.openstacknode.impl.DefaultOpenstackNodeHandler": {
+    "ovsdbPortNum": 6650
+  }
+}
